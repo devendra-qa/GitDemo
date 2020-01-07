@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="53" started-at="2019-12-05T15:27:32Z" finished-at="2019-12-05T15:27:32Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="53" started-at="2019-12-05T15:27:32Z" finished-at="2019-12-05T15:27:32Z">
+      <class name="UdemyQA.DemoMavenProject.DepositTest">
+        <test-method status="PASS" signature="cashDeposit()[pri:0, instance:UdemyQA.DemoMavenProject.DepositTest@6d8a00e3]" name="cashDeposit" duration-ms="10" started-at="2019-12-05T15:27:32Z" finished-at="2019-12-05T15:27:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cashDeposit -->
+        <test-method status="PASS" signature="chequeDeposit()[pri:0, instance:UdemyQA.DemoMavenProject.DepositTest@6d8a00e3]" name="chequeDeposit" duration-ms="0" started-at="2019-12-05T15:27:32Z" finished-at="2019-12-05T15:27:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- chequeDeposit -->
+      </class> <!-- UdemyQA.DemoMavenProject.DepositTest -->
+      <class name="UdemyQA.DemoMavenProject.LoginTest">
+        <test-method status="PASS" signature="login()[pri:0, instance:UdemyQA.DemoMavenProject.LoginTest@548b7f67]" name="login" duration-ms="0" started-at="2019-12-05T15:27:32Z" finished-at="2019-12-05T15:27:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="openAccount()[pri:0, instance:UdemyQA.DemoMavenProject.LoginTest@548b7f67]" name="openAccount" duration-ms="0" started-at="2019-12-05T15:27:32Z" finished-at="2019-12-05T15:27:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openAccount -->
+      </class> <!-- UdemyQA.DemoMavenProject.LoginTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
